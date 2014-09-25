@@ -2,5 +2,6 @@ test
 ====
 
 Testing for master branch
-change 1
+delete change 1
 change 2
+change 3
