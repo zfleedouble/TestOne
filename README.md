@@ -2,6 +2,7 @@ TestOne
 =======
 
 test how to player
-change 1 
+delete 1
 change 2
 change 3 by zfleedoublelee(student)
+add 4
